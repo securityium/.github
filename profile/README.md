@@ -10,6 +10,11 @@ At Securityium, we specialize in penetration testing and vulnerability assessmen
 
 To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
+#### 📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 🚀 Connect with Us
 
 - LinkedIn: [Securityium LinkedIn Page](https://www.linkedin.com/company/securityium/)

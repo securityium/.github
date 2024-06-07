@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Fetch latest published blog from our main wesite
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "4"
+          remove_duplicates: true
+          feed_list: "https://www.securityium.com/feed/"
+          
