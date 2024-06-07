@@ -15,5 +15,6 @@ jobs:
         with:
           max_post_count: "4"
           remove_duplicates: true
+          readme_path: "./profile/README.md"
           feed_list: "https://www.securityium.com/feed/"
           
