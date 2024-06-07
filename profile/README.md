@@ -12,6 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Guardians of the Digital Realm The Power of Penetration Testing](https://www.securityium.com/guardians-of-the-digital-realm-the-power-of-penetration-testing/)
+- [Evolving Threatscape Adapting Your Cybersecurity Strategy](https://www.securityium.com/evolving-threatscape-adapting-your-cybersecurity-strategy/)
+- [Cracking the Code VAPTs Journey from Risk to Resilience](https://www.securityium.com/cracking-the-code-vapts-journey-from-risk-to-resilience/)
+- [Beyond Compliance Elevating Your Security Posture with VAPT](https://www.securityium.com/beyond-compliance-elevating-your-security-posture-with-vapt/)
 <!-- BLOG-POST-LIST:END -->
 
 
