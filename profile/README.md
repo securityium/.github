@@ -1,6 +1,6 @@
 # Securityium - UNMASKING WEAKNESSES, EMPOWERING SECURITY
 
-![Securityium Logo](https://www.securityium.com/assets/images/logo.svg)
+![Securityium Logo](https://www.securityium.com/wp-content/uploads/2024/05/logo_2.png)
 
 Welcome to the official GitHub repository of Securityium - a leading provider of comprehensive cybersecurity solutions based in London, UK.
 
@@ -10,7 +10,7 @@ At Securityium, we specialize in penetration testing and vulnerability assessmen
 
 To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
-#### 📕 **Latest Blog Posts**
+## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
