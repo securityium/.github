@@ -12,9 +12,9 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Management in Cybersecurity: Safeguarding Against Emerging Threats](https://www.securityium.com/supply-chain-management-in-cybersecurity-safeguarding-against-emerging-threats/)
-- [Breach of Trust: How Vendor Impersonation Threatens IT Security](https://www.securityium.com/how-vendor-impersonation-threatens-it-security/)
-- [Preventing Phishing-Induced Data Breach with Comprehensive Security Measures](https://www.securityium.com/preventing-phishing-induced-data-breach/)
+- [Supply Chain Management in Cybersecurity](https://www.securityium.com/supply-chain-management-in-cybersecurity/)
+- [Vendor Impersonation Threat in IT Security](https://www.securityium.com/vendor-impersonation-threat-in-it-security/)
+- [Preventing Phishing-Induced Data Breach](https://www.securityium.com/preventing-phishing-induced-data-breach/)
 - [The Importance of Pentesting in Modern Cybersecurity](https://www.securityium.com/the-importance-of-pentesting-in-modern-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
