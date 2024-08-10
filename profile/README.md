@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Incremental Penetration Testing](https://www.securityium.com/understanding-incremental-penetration-testing/)
 - [Supply Chain Management in Cybersecurity](https://www.securityium.com/supply-chain-management-in-cybersecurity/)
 - [Vendor Impersonation Threat in IT Security](https://www.securityium.com/vendor-impersonation-threat-in-it-security/)
 - [Preventing Phishing-Induced Data Breach](https://www.securityium.com/preventing-phishing-induced-data-breach/)
-- [The Importance of Pentesting in Modern Cybersecurity](https://www.securityium.com/the-importance-of-pentesting-in-modern-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
 
