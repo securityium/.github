@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A Vulnerability in reNgine: CVE-2024-43381](https://www.securityium.com/a-vulnerability-in-rengine-cve-2024-43381/)
 - [The Cybersecurity Shield – Attack Surface Scan](https://www.securityium.com/the-cybersecurity-shield-attack-surface-scan/)
 - [Understanding Incremental Penetration Testing](https://www.securityium.com/understanding-incremental-penetration-testing/)
 - [Supply Chain Management in Cybersecurity](https://www.securityium.com/supply-chain-management-in-cybersecurity/)
-- [Vendor Impersonation Threat in IT Security](https://www.securityium.com/vendor-impersonation-threat-in-it-security/)
 <!-- BLOG-POST-LIST:END -->
 
 
