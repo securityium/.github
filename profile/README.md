@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Viruses vs. Worms vs. Trojan Horses: A Detailed Guide With Prevention Tips](https://www.securityium.com/viruses-vs-worms-vs-trojan-horses-a-detailed-guide/)
 - [Malware vs Ransomware: Unmasking the Key Differences](https://www.securityium.com/malware-vs-ransomware-unmasking-the-key-differences/)
 - [A Vulnerability in reNgine: CVE-2024-43381](https://www.securityium.com/a-vulnerability-in-rengine-cve-2024-43381/)
 - [The Cybersecurity Shield – Attack Surface Scan](https://www.securityium.com/the-cybersecurity-shield-attack-surface-scan/)
-- [Understanding Incremental Penetration Testing](https://www.securityium.com/understanding-incremental-penetration-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 
