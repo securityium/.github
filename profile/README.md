@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Viruses vs. Worms vs. Trojan Horses: A Detailed Guide With Prevention Tips](https://www.securityium.com/viruses-vs-worms-vs-trojan-horses-a-detailed-guide/)
-- [Malware vs Ransomware: Unmasking the Key Differences](https://www.securityium.com/malware-vs-ransomware-unmasking-the-key-differences/)
-- [A Vulnerability in reNgine: CVE-2024-43381](https://www.securityium.com/a-vulnerability-in-rengine-cve-2024-43381/)
-- [The Cybersecurity Shield – Attack Surface Scan](https://www.securityium.com/the-cybersecurity-shield-attack-surface-scan/)
+- [Pen Test vs Vulnerability Scan: Understanding the Key Differences in Cybersecurity](https://www.securityium.com/pen-test-vs-vulnerability-scan-understanding-the-key-differences-in-cybersecurity/)
+- [How to Be GDPR Compliant: A Step-by-Step Guide for Businesses](https://www.securityium.com/how-to-be-gdpr-compliant-a-step-by-step-guide-for-businesses/)
+- [Essential General Data Protection Regulation Checklist for Business Compliance](https://www.securityium.com/essential-general-data-protection-regulation-checklist-for-business-compliance/)
+- [GDPR Compliance: Why It Matters for Your Business in 2024](https://www.securityium.com/gdpr-compliance-why-it-matters-for-your-business-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
