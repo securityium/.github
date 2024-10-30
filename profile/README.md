@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Top 12 Best Practices for Effective Web Application Pentesting](https://www.securityium.com/top-12-best-practices-for-effective-web-application-pentesting/)
 - [Understanding the Open Web Application Security Project &lpar;OWASP&rpar; Top Ten for Web App Security](https://www.securityium.com/understanding-the-open-web-application-security-project-owasp-top-ten-for-web-app-security/)
 - [Essential Guide to OWASP Top 10](https://www.securityium.com/essential-guide-to-owasp-top-10/)
 - [Why Application Programming Interface Security is Crucial?](https://www.securityium.com/why-application-programming-interface-security-is-crucial/)
-- [Essential API Security Best Practices to Safeguard Your Data](https://www.securityium.com/essential-api-security-best-practices-to-safeguard-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
