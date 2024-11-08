@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Understanding What Is White Testing: Methods and Importance](https://www.securityium.com/understanding-what-is-white-testing-methods-and-importance/)
-- [Strengthen Security with White Box Pen Testing Explained](https://www.securityium.com/strengthen-security-with-white-box-pen-testing-explained/)
-- [What Is a Pen Tester? Role and Importance in Cybersecurity](https://www.securityium.com/what-is-a-pen-tester-role-and-importance-in-cybersecurity/)
-- [The Ultimate Guide to Security Penetration Testing](https://www.securityium.com/the-ultimate-guide-to-security-penetration-testing/)
+- [CERT-In: India’s Cybersecurity Shield Against Digital Threats](https://www.securityium.com/cert-in-indias-cybersecurity-shield-against-digital-threats/)
+- [Essential Guide to Network Scanners for Stronger Security](https://www.securityium.com/essential-guide-to-network-scanners-for-stronger-security/)
+- [Essential Guide to Net Scanners for Modern Network Security](https://www.securityium.com/essential-guide-to-net-scanners-for-modern-network-security/)
+- [Effective Vulnerability Management Program for Cyber Defense](https://www.securityium.com/effective-vulnerability-management-program-for-cyber-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 
