@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [CERT-In: India’s Cybersecurity Shield Against Digital Threats](https://www.securityium.com/cert-in-indias-cybersecurity-shield-against-digital-threats/)
-- [Essential Guide to Network Scanners for Stronger Security](https://www.securityium.com/essential-guide-to-network-scanners-for-stronger-security/)
-- [Essential Guide to Net Scanners for Modern Network Security](https://www.securityium.com/essential-guide-to-net-scanners-for-modern-network-security/)
-- [Effective Vulnerability Management Program for Cyber Defense](https://www.securityium.com/effective-vulnerability-management-program-for-cyber-defense/)
+- [Complete Guide to Android Pentesting: Tools and Techniques](https://www.securityium.com/complete-guide-to-android-pentesting-tools-and-techniques/)
+- [What is CERT-In and How It Enhances Cybersecurity](https://www.securityium.com/what-is-cert-in-and-how-it-enhances-cybersecurity/)
+- [Responsibilities of CERT-In: Key Roles in Cybersecurity](https://www.securityium.com/responsibilities-of-cert-in-key-roles-in-cybersecurity/)
+- [Understanding the Importance of CERT-In for Cybersecurity](https://www.securityium.com/understanding-the-importance-of-cert-in-for-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
 
