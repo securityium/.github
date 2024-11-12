@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Android Pentesting: Tools and Techniques](https://www.securityium.com/complete-guide-to-android-pentesting-tools-and-techniques/)
-- [What is CERT-In and How It Enhances Cybersecurity](https://www.securityium.com/what-is-cert-in-and-how-it-enhances-cybersecurity/)
-- [Responsibilities of CERT-In: Key Roles in Cybersecurity](https://www.securityium.com/responsibilities-of-cert-in-key-roles-in-cybersecurity/)
-- [Understanding the Importance of CERT-In for Cybersecurity](https://www.securityium.com/understanding-the-importance-of-cert-in-for-cybersecurity/)
+- [ASR Rules: Key to Blocking Cyber Threats &amp; Enhancing Security](https://www.securityium.com/asr-rules-key-to-blocking-cyber-threats-enhancing-security/)
+- [Effective Strategies for Attack Surface Reduction](https://www.securityium.com/effective-strategies-for-attack-surface-reduction/)
+- [Comprehensive Guide to Attack Surface Scanning](https://www.securityium.com/comprehensive-guide-to-attack-surface-scanning/)
+- [Comprehensive Guide to Attack Surface Management](https://www.securityium.com/comprehensive-guide-to-attack-surface-management/)
 <!-- BLOG-POST-LIST:END -->
 
 
