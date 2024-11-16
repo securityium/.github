@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Server-Side Request Forgery &lpar;SSRF&rpar;: Threats and Mitigation](https://www.securityium.com/server-side-request-forgery-ssrf-threats-and-mitigation/)
 - [ASR Rules: Key to Blocking Cyber Threats &amp; Enhancing Security](https://www.securityium.com/asr-rules-key-to-blocking-cyber-threats-enhancing-security/)
 - [Effective Strategies for Attack Surface Reduction](https://www.securityium.com/effective-strategies-for-attack-surface-reduction/)
 - [Comprehensive Guide to Attack Surface Scanning](https://www.securityium.com/comprehensive-guide-to-attack-surface-scanning/)
-- [Comprehensive Guide to Attack Surface Management](https://www.securityium.com/comprehensive-guide-to-attack-surface-management/)
 <!-- BLOG-POST-LIST:END -->
 
 
