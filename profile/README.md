@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerability Tracking Using OCRC: A Structured Framework for Effective Penetration Testing](https://www.securityium.com/vulnerability-tracking-using-ocrc-a-structured-framework-for-effective-penetration-testing/)
 - [Cloud Data Security Best Practices: Comprehensive Guide](https://www.securityium.com/cloud-data-security-best-practices-comprehensive-guide/)
 - [Server-Side Request Forgery &lpar;SSRF&rpar;: Threats and Mitigation](https://www.securityium.com/server-side-request-forgery-ssrf-threats-and-mitigation/)
 - [ASR Rules: Key to Blocking Cyber Threats &amp; Enhancing Security](https://www.securityium.com/asr-rules-key-to-blocking-cyber-threats-enhancing-security/)
-- [Effective Strategies for Attack Surface Reduction](https://www.securityium.com/effective-strategies-for-attack-surface-reduction/)
 <!-- BLOG-POST-LIST:END -->
 
 
