@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerability Assessment Types &amp; Methodologies Explained](https://www.securityium.com/vulnerability-assessment-types-methodologies-explained/)
+- [What Is Vulnerability Assessment and How Is It Conducted?](https://www.securityium.com/what-is-vulnerability-assessment-and-how-is-it-conducted/)
 - [Vulnerability Tracking Using OCRC: A Structured Framework for Effective Penetration Testing](https://www.securityium.com/vulnerability-tracking-using-ocrc-a-structured-framework-for-effective-penetration-testing/)
 - [Cloud Data Security Best Practices: Comprehensive Guide](https://www.securityium.com/cloud-data-security-best-practices-comprehensive-guide/)
-- [Server-Side Request Forgery &lpar;SSRF&rpar;: Threats and Mitigation](https://www.securityium.com/server-side-request-forgery-ssrf-threats-and-mitigation/)
-- [ASR Rules: Key to Blocking Cyber Threats &amp; Enhancing Security](https://www.securityium.com/asr-rules-key-to-blocking-cyber-threats-enhancing-security/)
 <!-- BLOG-POST-LIST:END -->
 
 
