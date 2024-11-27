@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Note For AWS Penetration Testing: Securing Your Cloud Infrastructure](https://www.securityium.com/a-quick-note-for-aws-penetration-testing-securing-your-cloud-infrastructure/)
 - [Comparing Vulnerability Management Frameworks: CISA, NIST &amp; SANS](https://www.securityium.com/comparing-vulnerability-management-frameworks-cisa-nist-sans/)
 - [Vulnerability Assessment Types &amp; Methodologies Explained](https://www.securityium.com/vulnerability-assessment-types-methodologies-explained/)
 - [What Is Vulnerability Assessment and How Is It Conducted?](https://www.securityium.com/what-is-vulnerability-assessment-and-how-is-it-conducted/)
-- [Vulnerability Tracking Using OCRC: A Structured Framework for Effective Penetration Testing](https://www.securityium.com/vulnerability-tracking-using-ocrc-a-structured-framework-for-effective-penetration-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 
