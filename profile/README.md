@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Product Security Best Practices for Safer Products](https://www.securityium.com/product-security-best-practices-for-safer-products/)
 - [How CISO’s Emotional Intelligence Transforms Leadership and Strengthens Cybersecurity](https://www.securityium.com/how-cisos-emotional-intelligence-transforms-leadership-and-strengthens-cybersecurity/)
 - [A Quick Note For AWS Penetration Testing: Securing Your Cloud Infrastructure](https://www.securityium.com/a-quick-note-for-aws-penetration-testing-securing-your-cloud-infrastructure/)
 - [Comparing Vulnerability Management Frameworks: CISA, NIST &amp; SANS](https://www.securityium.com/comparing-vulnerability-management-frameworks-cisa-nist-sans/)
-- [Vulnerability Assessment Types &amp; Methodologies Explained](https://www.securityium.com/vulnerability-assessment-types-methodologies-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 
