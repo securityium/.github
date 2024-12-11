@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Information Disclosure Vulnerabilities: Risks &amp; Fixes](https://www.securityium.com/understanding-information-disclosure-vulnerabilities-risks-fixes/)
 - [Cookies vs Supercookies: The Hidden Layers of Online Tracking](https://www.securityium.com/cookies-vs-supercookies-the-hidden-layers-of-online-tracking/)
 - [Product Security Best Practices for Safer Products](https://www.securityium.com/product-security-best-practices-for-safer-products/)
 - [How CISO’s Emotional Intelligence Transforms Leadership and Strengthens Cybersecurity](https://www.securityium.com/how-cisos-emotional-intelligence-transforms-leadership-and-strengthens-cybersecurity/)
-- [A Quick Note For AWS Penetration Testing: Securing Your Cloud Infrastructure](https://www.securityium.com/a-quick-note-for-aws-penetration-testing-securing-your-cloud-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 
