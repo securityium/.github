@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to OWASP Top 10 LLM Applications 2025](https://www.securityium.com/a-comprehensive-guide-to-owasp-top-10-llm-applications-2025/)
 - [Understanding Information Disclosure Vulnerabilities: Risks &amp; Fixes](https://www.securityium.com/understanding-information-disclosure-vulnerabilities-risks-fixes/)
 - [Cookies vs Supercookies: The Hidden Layers of Online Tracking](https://www.securityium.com/cookies-vs-supercookies-the-hidden-layers-of-online-tracking/)
 - [Product Security Best Practices for Safer Products](https://www.securityium.com/product-security-best-practices-for-safer-products/)
-- [How CISO’s Emotional Intelligence Transforms Leadership and Strengthens Cybersecurity](https://www.securityium.com/how-cisos-emotional-intelligence-transforms-leadership-and-strengthens-cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
 
 
