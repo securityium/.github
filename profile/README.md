@@ -12,10 +12,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to OWASP Top 10 LLM Applications 2025](https://www.securityium.com/a-comprehensive-guide-to-owasp-top-10-llm-applications-2025/)
-- [Understanding Information Disclosure Vulnerabilities: Risks &amp; Fixes](https://www.securityium.com/understanding-information-disclosure-vulnerabilities-risks-fixes/)
-- [Cookies vs Supercookies: The Hidden Layers of Online Tracking](https://www.securityium.com/cookies-vs-supercookies-the-hidden-layers-of-online-tracking/)
-- [Product Security Best Practices for Safer Products](https://www.securityium.com/product-security-best-practices-for-safer-products/)
+- [LLM10:2025 Unbounded Consumption: Managing Resource Risks](https://www.securityium.com/llm102025-unbounded-consumption-managing-resource-risks/)
+- [A Comprehensive Guide to Address LLM09:2025 Misinformation](https://www.securityium.com/a-comprehensive-guide-to-address-llm092025-misinformation/)
+- [A Guide to Mitigating LLM08:2025 Vector and Embedding Weaknesses](https://www.securityium.com/a-guide-to-mitigating-llm082025-vector-and-embedding-weaknesses/)
+- [Protecting Against LLM07:2025 System Prompt Leakage](https://www.securityium.com/protecting-against-llm072025-system-prompt-leakage/)
 <!-- BLOG-POST-LIST:END -->
 
 
