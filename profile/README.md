@@ -16,6 +16,10 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 - [A Comprehensive Guide to Address LLM09:2025 Misinformation](https://www.securityium.com/a-comprehensive-guide-to-address-llm092025-misinformation/)
 - [A Guide to Mitigating LLM08:2025 Vector and Embedding Weaknesses](https://www.securityium.com/a-guide-to-mitigating-llm082025-vector-and-embedding-weaknesses/)
 - [Protecting Against LLM07:2025 System Prompt Leakage](https://www.securityium.com/protecting-against-llm072025-system-prompt-leakage/)
+- [Understanding LLM06:2025 Excessive Agency Risks](https://www.securityium.com/understanding-llm062025-excessive-agency-risks/)
+- [LLM05:2025 Improper Output Handling in LLM Applications](https://www.securityium.com/llm052025-improper-output-handling-in-llm-applications/)
+- [LLM04: Data and Model Poisoning in LLM Applications](https://www.securityium.com/llm04-data-and-model-poisoning-in-llm-applications/)
+- [Addressing LLM03:2025 Supply Chain Vulnerabilities in LLM Apps](https://www.securityium.com/addressing-llm032025-supply-chain-vulnerabilities-in-llm-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
