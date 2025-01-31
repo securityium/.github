@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [LLM10:2025 Unbounded Consumption: Managing Resource Risks](https://www.securityium.com/llm102025-unbounded-consumption-managing-resource-risks/)
-- [A Comprehensive Guide to Address LLM09:2025 Misinformation](https://www.securityium.com/a-comprehensive-guide-to-address-llm092025-misinformation/)
-- [A Guide to Mitigating LLM08:2025 Vector and Embedding Weaknesses](https://www.securityium.com/a-guide-to-mitigating-llm082025-vector-and-embedding-weaknesses/)
-- [Protecting Against LLM07:2025 System Prompt Leakage](https://www.securityium.com/protecting-against-llm072025-system-prompt-leakage/)
-- [Understanding LLM06:2025 Excessive Agency Risks](https://www.securityium.com/understanding-llm062025-excessive-agency-risks/)
-- [LLM05:2025 Improper Output Handling in LLM Applications](https://www.securityium.com/llm052025-improper-output-handling-in-llm-applications/)
-- [LLM04: Data and Model Poisoning in LLM Applications](https://www.securityium.com/llm04-data-and-model-poisoning-in-llm-applications/)
-- [Addressing LLM03:2025 Supply Chain Vulnerabilities in LLM Apps](https://www.securityium.com/addressing-llm032025-supply-chain-vulnerabilities-in-llm-apps/)
+- [Mitigating Risks in Gen AI Applications: A Guide to Responsible Use](https://www.securityium.com/mitigating-risks-in-gen-ai-applications-a-guide-to-responsible-use/)
+- [Managing Bias in AI Applications: Strategies &amp; Practical Insights](https://www.securityium.com/managing-bias-in-ai-applications-strategies-practical-insights/)
+- [Generative AI Security Challenges: Risks, Trends &amp; Solutions](https://www.securityium.com/generative-ai-security-challenges-risks-trends-solutions/)
+- [Ethical AI in Generative Models: Challenges, Trends &amp; Solutions](https://www.securityium.com/ethical-ai-in-generative-models-challenges-trends-solutions/)
+- [Emerging Threats in Generative AI Security: Risks &amp; Solutions](https://www.securityium.com/emerging-threats-in-generative-ai-security-risks-solutions/)
+- [Data Poisoning in Generative AI: Risks, Examples &amp; Solutions](https://www.securityium.com/data-poisoning-in-generative-ai-risks-examples-solutions/)
+- [Best Practices for AI Risk Management: Key Strategies &amp; Trends](https://www.securityium.com/best-practices-for-ai-risk-management-key-strategies-trends/)
+- [AI-Powered Applications and OWASP Standards for Security](https://www.securityium.com/ai-powered-applications-and-owasp-standards-for-security/)
 <!-- BLOG-POST-LIST:END -->
 
 
