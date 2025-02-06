@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating Risks in Gen AI Applications: A Guide to Responsible Use](https://www.securityium.com/mitigating-risks-in-gen-ai-applications-a-guide-to-responsible-use/)
-- [Managing Bias in AI Applications: Strategies &amp; Practical Insights](https://www.securityium.com/managing-bias-in-ai-applications-strategies-practical-insights/)
-- [Generative AI Security Challenges: Risks, Trends &amp; Solutions](https://www.securityium.com/generative-ai-security-challenges-risks-trends-solutions/)
-- [Ethical AI in Generative Models: Challenges, Trends &amp; Solutions](https://www.securityium.com/ethical-ai-in-generative-models-challenges-trends-solutions/)
-- [Emerging Threats in Generative AI Security: Risks &amp; Solutions](https://www.securityium.com/emerging-threats-in-generative-ai-security-risks-solutions/)
-- [Data Poisoning in Generative AI: Risks, Examples &amp; Solutions](https://www.securityium.com/data-poisoning-in-generative-ai-risks-examples-solutions/)
-- [Best Practices for AI Risk Management: Key Strategies &amp; Trends](https://www.securityium.com/best-practices-for-ai-risk-management-key-strategies-trends/)
-- [AI-Powered Applications and OWASP Standards for Security](https://www.securityium.com/ai-powered-applications-and-owasp-standards-for-security/)
+- [Understanding the OWASP LLM Top 10: Securing AI Systems](https://www.securityium.com/understanding-the-owasp-llm-top-10-securing-ai-systems/)
+- [LLM OWASP Top 10 Vulnerabilities: Securing AI Systems Effectively](https://www.securityium.com/llm-owasp-top-10-vulnerabilities-securing-ai-systems-effectively/)
+- [LLM Misinformation Propagation: Challenges, Risks &amp; Solutions](https://www.securityium.com/llm-misinformation-propagation-challenges-risks-solutions/)
+- [LLM Misinformation Challenges: Risks, Trends &amp; Solutions](https://www.securityium.com/llm-misinformation-challenges-risks-trends-solutions/)
+- [LLM Data Model Poisoning: Risks, Challenges &amp; Prevention](https://www.securityium.com/llm-data-model-poisoning-risks-challenges-prevention/)
+- [Improper Output Handling in LLMs: Risks, Challenges &amp; Solutions](https://www.securityium.com/improper-output-handling-in-llms-risks-challenges-solutions/)
+- [Future Trends in LLM Security: Key Challenges &amp; Solutions](https://www.securityium.com/future-trends-in-llm-security-key-challenges-solutions/)
+- [AI Excessive Agency Risks in LLMs: Challenges &amp; Solutions](https://www.securityium.com/ai-excessive-agency-risks-in-llms-challenges-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 
