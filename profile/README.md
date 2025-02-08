@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the OWASP LLM Top 10: Securing AI Systems](https://www.securityium.com/understanding-the-owasp-llm-top-10-securing-ai-systems/)
-- [LLM OWASP Top 10 Vulnerabilities: Securing AI Systems Effectively](https://www.securityium.com/llm-owasp-top-10-vulnerabilities-securing-ai-systems-effectively/)
-- [LLM Misinformation Propagation: Challenges, Risks &amp; Solutions](https://www.securityium.com/llm-misinformation-propagation-challenges-risks-solutions/)
-- [LLM Misinformation Challenges: Risks, Trends &amp; Solutions](https://www.securityium.com/llm-misinformation-challenges-risks-trends-solutions/)
-- [LLM Data Model Poisoning: Risks, Challenges &amp; Prevention](https://www.securityium.com/llm-data-model-poisoning-risks-challenges-prevention/)
-- [Improper Output Handling in LLMs: Risks, Challenges &amp; Solutions](https://www.securityium.com/improper-output-handling-in-llms-risks-challenges-solutions/)
-- [Future Trends in LLM Security: Key Challenges &amp; Solutions](https://www.securityium.com/future-trends-in-llm-security-key-challenges-solutions/)
-- [AI Excessive Agency Risks in LLMs: Challenges &amp; Solutions](https://www.securityium.com/ai-excessive-agency-risks-in-llms-challenges-solutions/)
+- [Vector and Embedding Security: Protecting LLMs from Threats](https://www.securityium.com/vector-and-embedding-security-protecting-llms-from-threats/)
+- [Unbounded Consumption in AI Models: Challenges &amp; Solutions](https://www.securityium.com/unbounded-consumption-in-ai-models-challenges-solutions/)
+- [System Prompt Leakage in LLMs: Risks, Causes &amp; Solutions](https://www.securityium.com/system-prompt-leakage-in-llms-risks-causes-solutions/)
+- [Sensitive Information Disclosure in LLM: Risks &amp; Solutions](https://www.securityium.com/sensitive-information-disclosure-in-llm-risks-solutions/)
+- [Secure Development for LLM Applications: Best Practices &amp; Trends](https://www.securityium.com/secure-development-for-llm-applications-best-practices-trends/)
+- [Responsible AI for LLMs: Ensuring Ethical and Fair AI Systems](https://www.securityium.com/responsible-ai-for-llms-ensuring-ethical-and-fair-ai-systems/)
+- [Protecting Sensitive Data in LLM Training](https://www.securityium.com/protecting-sensitive-data-in-llm-training/)
+- [Prompt Injection in LLMs: Risks, Examples &amp; Mitigation](https://www.securityium.com/prompt-injection-in-llms-risks-examples-mitigation/)
 <!-- BLOG-POST-LIST:END -->
 
 
