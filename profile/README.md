@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing History: Evolution to Microsoft Majorana 1](https://www.securityium.com/quantum-computing-history-evolution-to-microsoft-majorana-1/)
+- [Quantum Chip: The Heart of Next-Gen Computing](https://www.securityium.com/quantum-chip-the-heart-of-next-gen-computing/)
 - [Microsoft Majorana 1: The Next Big Thing in Quantum Tech](https://www.securityium.com/microsoft-majorana-1-the-next-big-thing-in-quantum-tech/)
 - [Microsoft Quantum Chip: Quantum Computing in 2025](https://www.securityium.com/microsoft-quantum-chip-quantum-computing-in-2025/)
 - [AI Cyber Security: UK’s 2025 Code of Practice Unveiled](https://www.securityium.com/ai-cyber-security-uks-2025-code-of-practice-unveiled/)
 - [AI Cybersecurity: Securing AI Systems in 2025](https://www.securityium.com/ai-cybersecurity-securing-ai-systems-in-2025/)
 - [Vector and Embedding Security: Protecting LLMs from Threats](https://www.securityium.com/vector-and-embedding-security-protecting-llms-from-threats/)
 - [Unbounded Consumption in AI Models: Challenges &amp; Solutions](https://www.securityium.com/unbounded-consumption-in-ai-models-challenges-solutions/)
-- [System Prompt Leakage in LLMs: Risks, Causes &amp; Solutions](https://www.securityium.com/system-prompt-leakage-in-llms-risks-causes-solutions/)
-- [Sensitive Information Disclosure in LLM: Risks &amp; Solutions](https://www.securityium.com/sensitive-information-disclosure-in-llm-risks-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 
