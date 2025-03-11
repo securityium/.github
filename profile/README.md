@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Azure Quantum: Bringing Majorana 1 to the Cloud](https://www.securityium.com/azure-quantum-bringing-majorana-1-to-the-cloud/)
+- [Quantum Skepticism: Is Majorana 1 Overhyped?](https://www.securityium.com/quantum-skepticism-is-majorana-1-overhyped/)
 - [Understanding HTTP Cookie Attributes: Security Risks and Bypass Techniques](https://www.securityium.com/understanding-http-cookie-attributes-ssecurity-risks-bypass/)
 - [Million Qubits: Why Quantum Chips Need This Goal](https://www.securityium.com/million-qubits-why-quantum-chips-need-this-goal/)
 - [Microsoft Quantum Journey: 20 Years to Majorana 1](https://www.securityium.com/microsoft-quantum-journey-20-years-to-majorana-1/)
 - [Quantum Cybersecurity: How Quantum Computing Reshapes Security](https://www.securityium.com/quantum-cybersecurity-how-quantum-computing-reshapes-security/)
 - [Topoconductors: Driving Quantum Innovation Forward](https://www.securityium.com/topoconductors-driving-quantum-innovation-forward/)
 - [Quantum Computing Rivals: Microsoft, Google &amp; IBM](https://www.securityium.com/quantum-computing-rivals-microsoft-google-ibm/)
-- [Topological Qubits Explained: The Science Behind Majorana 1](https://www.securityium.com/topological-qubits-explained-the-science-behind-majorana-1/)
-- [Quantum Computing History: Evolution to Microsoft Majorana 1](https://www.securityium.com/quantum-computing-history-evolution-to-microsoft-majorana-1/)
 <!-- BLOG-POST-LIST:END -->
 
 
