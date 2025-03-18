@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [What are business logic vulnerabilities?](https://www.securityium.com/what-are-business-logic-vulnerabilities/)
+- [What Is OS Command Injection?](https://www.securityium.com/what-is-os-command-injection/)
+- [What is Path Traversal?](https://www.securityium.com/what-is-path-traversal/)
+- [Understanding Web LLM Attacks](https://www.securityium.com/understanding-web-llm-attacks/)
+- [What are authentication vulnerabilities?](https://www.securityium.com/what-are-authentication-vulnerabilities/)
+- [What is SQL injection &lpar;SQLi&rpar;?](https://www.securityium.com/what-is-sql-injection-sqli/)
 - [Azure Quantum: Bringing Majorana 1 to the Cloud](https://www.securityium.com/azure-quantum-bringing-majorana-1-to-the-cloud/)
 - [Quantum Skepticism: Is Majorana 1 Overhyped?](https://www.securityium.com/quantum-skepticism-is-majorana-1-overhyped/)
-- [Understanding HTTP Cookie Attributes: Security Risks and Bypass Techniques](https://www.securityium.com/understanding-http-cookie-attributes-ssecurity-risks-bypass/)
-- [Million Qubits: Why Quantum Chips Need This Goal](https://www.securityium.com/million-qubits-why-quantum-chips-need-this-goal/)
-- [Microsoft Quantum Journey: 20 Years to Majorana 1](https://www.securityium.com/microsoft-quantum-journey-20-years-to-majorana-1/)
-- [Quantum Cybersecurity: How Quantum Computing Reshapes Security](https://www.securityium.com/quantum-cybersecurity-how-quantum-computing-reshapes-security/)
-- [Topoconductors: Driving Quantum Innovation Forward](https://www.securityium.com/topoconductors-driving-quantum-innovation-forward/)
-- [Quantum Computing Rivals: Microsoft, Google &amp; IBM](https://www.securityium.com/quantum-computing-rivals-microsoft-google-ibm/)
 <!-- BLOG-POST-LIST:END -->
 
 
