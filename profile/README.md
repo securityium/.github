@@ -12,14 +12,14 @@ To know more about us, 🌐 visit our [website](https://www.securityium.com/).
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Server-Side Request Forgery &lpar;SSRF&rpar;](https://www.securityium.com/exploring-server-side-request-forgery-ssrf/)
+- [What Are File Upload Vulnerabilities?](https://www.securityium.com/what-are-file-upload-vulnerabilities/)
+- [Mastering Access Control Vulnerabilities and Privilege Escalation](https://www.securityium.com/mastering-access-control-vulnerabilities-and-privilege-escalation/)
+- [Understanding Information Disclosure Vulnerabilities](https://www.securityium.com/understanding-information-disclosure-vulnerabilities/)
 - [What are business logic vulnerabilities?](https://www.securityium.com/what-are-business-logic-vulnerabilities/)
 - [What Is OS Command Injection?](https://www.securityium.com/what-is-os-command-injection/)
 - [What is Path Traversal?](https://www.securityium.com/what-is-path-traversal/)
 - [Understanding Web LLM Attacks](https://www.securityium.com/understanding-web-llm-attacks/)
-- [What are authentication vulnerabilities?](https://www.securityium.com/what-are-authentication-vulnerabilities/)
-- [What is SQL injection &lpar;SQLi&rpar;?](https://www.securityium.com/what-is-sql-injection-sqli/)
-- [Azure Quantum: Bringing Majorana 1 to the Cloud](https://www.securityium.com/azure-quantum-bringing-majorana-1-to-the-cloud/)
-- [Quantum Skepticism: Is Majorana 1 Overhyped?](https://www.securityium.com/quantum-skepticism-is-majorana-1-overhyped/)
 <!-- BLOG-POST-LIST:END -->
 
 
